@@ -1,0 +1,13 @@
+/* Діє ТІЛЬКИ на елементи всередині компонента Footer */
+footer {
+  background-color: #cfd20a;
+  padding: 16px;
+  text-align: center;
+  border-top: 2px solid #cbd5e1;
+}
+
+p {
+  margin: 0;
+  font-size: 19px;
+  color: #cc07b2;
+}
